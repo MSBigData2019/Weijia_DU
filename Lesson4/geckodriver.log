@@ -1,0 +1,1056 @@
+1540633998529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.30NICIbeUuuu"
+
+(firefox:6344): Gtk-WARNING **: 11:53:20.058: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6344): Gtk-WARNING **: 11:53:20.058: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540634002907	Marionette	INFO	Listening on port 34743
+1540634002949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:6460): dconf-WARNING **: 11:53:29.679: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+1540634025212	Marionette	INFO	Stopped listening on port 34743
+[Parent 6344, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6460, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540634999414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TDPtFC5mN9h2"
+
+(firefox:6696): Gtk-WARNING **: 12:10:01.508: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6696): Gtk-WARNING **: 12:10:01.508: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635004267	Marionette	INFO	Listening on port 46023
+1540635004327	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6696, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6696, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540635042160	Marionette	INFO	Stopped listening on port 46023
+1540635050750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UQiWrsxZoEHr"
+
+(firefox:6904): Gtk-WARNING **: 12:10:51.720: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6904): Gtk-WARNING **: 12:10:51.720: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635054410	Marionette	INFO	Listening on port 43951
+1540635054469	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7016): dconf-WARNING **: 12:11:01.097: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+1540635176011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NI7nn5C0M0BN"
+
+(firefox:7136): Gtk-WARNING **: 12:12:57.279: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7136): Gtk-WARNING **: 12:12:57.279: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635179517	Marionette	INFO	Listening on port 44347
+1540635179529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:7247): dconf-WARNING **: 12:13:08.019: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540635195693	Marionette	INFO	Stopped listening on port 44347
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7247, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6904, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6904, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540635277800	Marionette	INFO	Stopped listening on port 43951
+1540635278912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Lawy8N6diOgI"
+
+(firefox:7408): Gtk-WARNING **: 12:14:39.909: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7408): Gtk-WARNING **: 12:14:39.909: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635282642	Marionette	INFO	Listening on port 41673
+1540635282727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:7520): dconf-WARNING **: 12:14:49.140: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540635307287	Marionette	INFO	Stopped listening on port 41673
+[Parent 7408, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540635380865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WMkPBpKdZxTO"
+
+(firefox:7672): Gtk-WARNING **: 12:16:21.795: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7672): Gtk-WARNING **: 12:16:21.795: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635384003	Marionette	INFO	Listening on port 43149
+1540635384090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:7789): dconf-WARNING **: 12:16:32.373: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7672, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540635594457	Marionette	INFO	Stopped listening on port 43149
+1540635608787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bPeBSdBeCYY2"
+
+(firefox:7976): Gtk-WARNING **: 12:20:09.745: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7976): Gtk-WARNING **: 12:20:09.745: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635612157	Marionette	INFO	Listening on port 36445
+1540635612204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:8094): dconf-WARNING **: 12:20:19.117: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 7976, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 7976, Gecko_IOThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540635708648	Marionette	INFO	Stopped listening on port 36445
+1540635785899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aJeoiJuShjyX"
+
+(firefox:8263): Gtk-WARNING **: 12:23:06.834: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8263): Gtk-WARNING **: 12:23:06.834: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635788948	Marionette	INFO	Listening on port 35905
+1540635789043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:8371): dconf-WARNING **: 12:23:21.434: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 8263, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8263, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8263, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540635834190	Marionette	INFO	Stopped listening on port 35905
+1540635836180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XsJomsSkVzlQ"
+
+(firefox:8512): Gtk-WARNING **: 12:23:57.062: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8512): Gtk-WARNING **: 12:23:57.062: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635839837	Marionette	INFO	Listening on port 41159
+1540635839893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:8625): dconf-WARNING **: 12:24:05.188: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 8512, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1540635897226	Marionette	INFO	Stopped listening on port 41159
+1540635911244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BYSwOAZHcFnS"
+
+(firefox:8788): Gtk-WARNING **: 12:25:12.197: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8788): Gtk-WARNING **: 12:25:12.197: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540635914575	Marionette	INFO	Listening on port 44231
+1540635914658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:8897): dconf-WARNING **: 12:25:22.329: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js, line 1294: Error: Connection closed, pending request to server1.conn0.child1/domnode336, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1351:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1505:14
+done/</</<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/views/text-editor.js:50:13
+do@resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/undo.js:72:11
+endBatch@resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/undo.js:83:5
+do@resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/undo.js:96:5
+done/</<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/views/text-editor.js:49:11
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11
+
+[Parent 8788, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540636106351	Marionette	INFO	Stopped listening on port 44231
+1540636107354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i1jYkWu5XzC9"
+
+(firefox:9076): Gtk-WARNING **: 12:28:28.246: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9076): Gtk-WARNING **: 12:28:28.246: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540636110395	Marionette	INFO	Listening on port 42027
+1540636110494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:9190): dconf-WARNING **: 12:28:36.139: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9076, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9076, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9076, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540636214429	Marionette	INFO	Stopped listening on port 42027
+1540636216307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ihUsuDJ7cibN"
+
+(firefox:9353): Gtk-WARNING **: 12:30:17.245: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9353): Gtk-WARNING **: 12:30:17.245: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540636219289	Marionette	INFO	Listening on port 43561
+1540636219324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:9467): dconf-WARNING **: 12:30:25.494: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 9353, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9353, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9353, Gecko_IOThread] WARNING: pipe error (112): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540636248409	Marionette	INFO	Stopped listening on port 43561
+1540636383947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F7zEmVsMqLU1"
+
+(firefox:9634): Gtk-WARNING **: 12:33:04.809: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9634): Gtk-WARNING **: 12:33:04.809: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540636386823	Marionette	INFO	Listening on port 45913
+1540636386863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:9747): dconf-WARNING **: 12:33:15.102: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 9634, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9634, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9634, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540636444796	Marionette	INFO	Stopped listening on port 45913
+1540636499686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RCMjfrxHYXnd"
+
+(firefox:9904): Gtk-WARNING **: 12:35:00.601: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9904): Gtk-WARNING **: 12:35:00.601: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540636502995	Marionette	INFO	Listening on port 36155
+1540636503024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10014): dconf-WARNING **: 12:35:10.381: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540636526086	Marionette	INFO	Stopped listening on port 36155
+[Parent 9904, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540636649710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9LCWn2c6lcT4"
+
+(firefox:10161): Gtk-WARNING **: 12:37:30.621: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10161): Gtk-WARNING **: 12:37:30.621: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540636652714	Marionette	INFO	Listening on port 42477
+1540636652725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10276): dconf-WARNING **: 12:37:42.105: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10161, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10161, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540636690536	Marionette	INFO	Stopped listening on port 42477
+1540636815840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uPKstQLBMx3Q"
+
+(firefox:10430): Gtk-WARNING **: 12:40:16.744: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10430): Gtk-WARNING **: 12:40:16.744: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540636818840	Marionette	INFO	Listening on port 34643
+1540636818851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10548): dconf-WARNING **: 12:40:25.737: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540636845753	Marionette	INFO	Stopped listening on port 34643
+[Parent 10430, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637010957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KHpKoHF2tDuo"
+
+(firefox:10701): Gtk-WARNING **: 12:43:31.935: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10701): Gtk-WARNING **: 12:43:31.935: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637014003	Marionette	INFO	Listening on port 37485
+1540637014117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10815): dconf-WARNING **: 12:43:40.685: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10701, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10701, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10701, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637056893	Marionette	INFO	Stopped listening on port 37485
+1540637059155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CpgiVpXytQtL"
+
+(firefox:10941): Gtk-WARNING **: 12:44:20.078: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10941): Gtk-WARNING **: 12:44:20.078: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637062470	Marionette	INFO	Listening on port 42745
+1540637062566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:11053): dconf-WARNING **: 12:44:30.030: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540637086499	Marionette	INFO	Stopped listening on port 42745
+[Parent 10941, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637097074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WPC6OdTdvrbU"
+
+(firefox:11180): Gtk-WARNING **: 12:44:57.943: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11180): Gtk-WARNING **: 12:44:57.943: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637100448	Marionette	INFO	Listening on port 38433
+1540637100491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:11289): dconf-WARNING **: 12:45:06.735: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 11180, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11180, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637126257	Marionette	INFO	Stopped listening on port 38433
+1540637129527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JQGhI1DPOydm"
+
+(firefox:11416): Gtk-WARNING **: 12:45:30.425: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11416): Gtk-WARNING **: 12:45:30.425: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637132520	Marionette	INFO	Listening on port 35891
+1540637132538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:11526): dconf-WARNING **: 12:45:39.242: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540637147434	Marionette	INFO	Stopped listening on port 35891
+[Parent 11416, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637280859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4pXfcFaMeoWW"
+
+(firefox:11658): Gtk-WARNING **: 12:48:01.780: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11658): Gtk-WARNING **: 12:48:01.780: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637284250	Marionette	INFO	Listening on port 39573
+1540637284281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:11769): dconf-WARNING **: 12:48:10.662: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11658, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11658, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11658, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637311292	Marionette	INFO	Stopped listening on port 39573
+1540637323983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OZ6t5V6C5sjs"
+
+(firefox:11904): Gtk-WARNING **: 12:48:45.056: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11904): Gtk-WARNING **: 12:48:45.056: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637327115	Marionette	INFO	Listening on port 41513
+1540637327215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:12013): dconf-WARNING **: 12:48:53.604: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 12013, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Child 12013, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Child 12013, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11904, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11904, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11904, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637357434	Marionette	INFO	Stopped listening on port 41513
+1540637441379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tpEoZeVjGtAh"
+
+(firefox:12152): Gtk-WARNING **: 12:50:42.314: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12152): Gtk-WARNING **: 12:50:42.314: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637444750	Marionette	INFO	Listening on port 39393
+1540637444799	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12261): dconf-WARNING **: 12:50:51.087: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+[Parent 12152, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12152, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12152, Gecko_IOThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12152, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637471230	Marionette	INFO	Stopped listening on port 39393
+1540637485511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RROlCOuFEBMM"
+
+(firefox:12393): Gtk-WARNING **: 12:51:26.380: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12393): Gtk-WARNING **: 12:51:26.380: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637488446	Marionette	INFO	Listening on port 35845
+1540637488551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:12506): dconf-WARNING **: 12:51:34.675: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 12393, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12393, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12393, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540637513508	Marionette	INFO	Stopped listening on port 35845
+1540637624940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O535FiTWQtfA"
+
+(firefox:12641): Gtk-WARNING **: 12:53:45.810: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12641): Gtk-WARNING **: 12:53:45.810: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540637627906	Marionette	INFO	Listening on port 34017
+1540637627949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:12754): dconf-WARNING **: 12:53:53.173: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540637653696	Marionette	INFO	Stopped listening on port 34017
+[Parent 12641, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Child 12754, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540638472239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dxfBWhhsc7qB"
+
+(firefox:13039): Gtk-WARNING **: 13:07:53.192: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13039): Gtk-WARNING **: 13:07:53.192: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540638475361	Marionette	INFO	Listening on port 34089
+1540638475486	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13155): dconf-WARNING **: 13:08:02.797: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+1540638497090	Marionette	INFO	Stopped listening on port 34089
+[Parent 13039, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540638499105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5FMDfykUhTEk"
+
+(firefox:13287): Gtk-WARNING **: 13:08:20.018: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13287): Gtk-WARNING **: 13:08:20.018: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540638502189	Marionette	INFO	Listening on port 34649
+1540638502224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:13398): dconf-WARNING **: 13:08:30.440: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540638523940	Marionette	INFO	Stopped listening on port 34649
+[Parent 13287, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540638525190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6UBVIxSx706c"
+
+(firefox:13521): Gtk-WARNING **: 13:08:46.090: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13521): Gtk-WARNING **: 13:08:46.090: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540638528169	Marionette	INFO	Listening on port 45557
+1540638528209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:13624): dconf-WARNING **: 13:08:55.104: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540638550341	Marionette	INFO	Stopped listening on port 45557
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 13521, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540638551726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tMNWiZmrgLk8"
+
+(firefox:13765): Gtk-WARNING **: 13:09:12.589: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13765): Gtk-WARNING **: 13:09:12.589: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540638554843	Marionette	INFO	Listening on port 38229
+1540638554939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:13878): dconf-WARNING **: 13:09:21.439: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540638570002	Marionette	INFO	Stopped listening on port 38229
+1540638571555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qxGhtAWcZ8pf"
+
+(firefox:13997): Gtk-WARNING **: 13:09:32.436: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13997): Gtk-WARNING **: 13:09:32.436: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540638574559	Marionette	INFO	Listening on port 33397
+1540638574573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:14111): dconf-WARNING **: 13:09:41.817: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13997, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540638611184	Marionette	INFO	Stopped listening on port 33397
+1540639121878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bfpBMRkohaFo"
+
+(firefox:14279): Gtk-WARNING **: 13:18:42.772: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14279): Gtk-WARNING **: 13:18:42.772: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639125003	Marionette	INFO	Listening on port 46317
+1540639125110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:14386): dconf-WARNING **: 13:18:52.751: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1540639332715	Marionette	INFO	Stopped listening on port 46317
+1540639334914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I42ZO65t1tPI"
+
+(firefox:14582): Gtk-WARNING **: 13:22:15.938: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14582): Gtk-WARNING **: 13:22:15.938: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639338055	Marionette	INFO	Listening on port 38869
+1540639338149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:14696): dconf-WARNING **: 13:22:26.708: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540639512832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KMehSfPXIHnJ"
+
+(firefox:14877): Gtk-WARNING **: 13:25:14.423: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14877): Gtk-WARNING **: 13:25:14.423: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639516627	Marionette	INFO	Listening on port 35713
+1540639516675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:14988): dconf-WARNING **: 13:25:26.424: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14877, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540639550623	Marionette	INFO	Stopped listening on port 35713
+1540639579200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YXsowmSqf6Jr"
+
+(firefox:15143): Gtk-WARNING **: 13:26:21.376: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15143): Gtk-WARNING **: 13:26:21.376: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639583617	Marionette	INFO	Listening on port 34743
+1540639583633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:15257): dconf-WARNING **: 13:26:35.163: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15143, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15143, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540639615500	Marionette	INFO	Stopped listening on port 34743
+[Parent 14582, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14582, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540639624255	Marionette	INFO	Stopped listening on port 38869
+1540639696101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NCAzUKeVX0NE"
+
+(firefox:15394): Gtk-WARNING **: 13:28:17.133: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15394): Gtk-WARNING **: 13:28:17.133: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639699393	Marionette	INFO	Listening on port 38049
+1540639699419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:15507): dconf-WARNING **: 13:28:27.058: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1540639727442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gV6nak0ayttq"
+
+(firefox:15619): Gtk-WARNING **: 13:28:48.401: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15619): Gtk-WARNING **: 13:28:48.401: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639730673	Marionette	INFO	Listening on port 39577
+1540639730755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:15737): dconf-WARNING **: 13:28:56.982: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540639743580	Marionette	INFO	Stopped listening on port 39577
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15394, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15394, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540639745278	Marionette	INFO	Stopped listening on port 38049
+1540639768337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.grXkidvOVfWr"
+
+(firefox:15875): Gtk-WARNING **: 13:29:29.617: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15875): Gtk-WARNING **: 13:29:29.617: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639771922	Marionette	INFO	Listening on port 46417
+1540639771953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:15985): dconf-WARNING **: 13:29:38.235: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1540639803559	Marionette	INFO	Stopped listening on port 46417
+[Parent 15875, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 15875, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540639918943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.anUYL8P0zYoD"
+
+(firefox:16267): Gtk-WARNING **: 13:31:59.808: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16267): Gtk-WARNING **: 13:31:59.808: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540639921943	Marionette	INFO	Listening on port 35909
+1540639921956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:16378): dconf-WARNING **: 13:32:08.819: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 75: unreachable code after return statement
+1540639960462	Marionette	INFO	Stopped listening on port 35909
+[Parent 16267, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540888841537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hJRvslMeCqgI"
+
+(firefox:3276): Gtk-WARNING **: 09:40:43.243: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3276): Gtk-WARNING **: 09:40:43.243: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540888846277	Marionette	INFO	Listening on port 33685
+1540888846295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:3413): dconf-WARNING **: 09:40:52.047: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 129: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-837584793, line 76: unreachable code after return statement
+1540888881088	Marionette	INFO	Stopped listening on port 33685
+[Parent 3276, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 3276, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
